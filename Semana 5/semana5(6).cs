@@ -40,7 +40,7 @@ class Curso
                 }
                 else
                 {
-                    Console.WriteLine("❌ Ingresa un número válido.");
+                    Console.WriteLine("Ingresa un número válido.");
                 }
             }
         }
@@ -66,7 +66,7 @@ class Curso
 
         if (asignaturas.Count == 0)
         {
-            Console.WriteLine("🎉 Ninguna, has aprobado todo.");
+            Console.WriteLine("Ninguna, has aprobado todo.");
         }
         else
         {

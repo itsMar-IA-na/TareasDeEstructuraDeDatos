@@ -28,12 +28,12 @@ class Loteria
                 }
                 else
                 {
-                    Console.WriteLine("❌ El número ya fue ingresado.");
+                    Console.WriteLine("El número ya fue ingresado.");
                 }
             }
             else
             {
-                Console.WriteLine("❌ Ingresa un número válido entre 1 y 49.");
+                Console.WriteLine("Ingresa un número válido entre 1 y 49.");
             }
         }
     }

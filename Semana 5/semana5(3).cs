@@ -47,7 +47,7 @@ class Curso
                 }
                 else
                 {
-                    Console.WriteLine("❌ Entrada inválida. Usa números enteros o decimales (ej: 8 o 7.25)");
+                    Console.WriteLine("Entrada inválida. Usa números enteros o decimales (ej: 8 o 7.25)");
                 }
             }
         }
